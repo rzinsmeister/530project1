@@ -7,5 +7,25 @@ body {
 }
 
 h1 { font-weight: bold;
-     font-size: 24px;
+     font-size: 28px;
+     text-align: center;
+     padding: 28px 0px 28px 0px;
+}
+
+
+h2 { font-weight: bold;
+     font-size: 16px;
+      
+
+
+
+
+}
+div.photo img {
+
+  width: 85%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
 }
