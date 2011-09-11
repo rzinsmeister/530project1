@@ -1,5 +1,5 @@
 html {
-  background: #FFFFCC;
+  background: rgb(255,255,240);
 }
 
 body {
@@ -13,14 +13,27 @@ h1 { font-weight: bold;
 }
 
 
-h2 { font-weight: bold;
-     font-size: 16px;
-      
-
-
+ul.heading { text-align: center;
+     font-size: 20px;
 
 
 }
+
+h2 { font-weight: bold;
+     font-size: 16px;
+     padding: 18px 0px 12px 18px;
+      
+
+}
+
+ul.tasks { font-size: 14px;
+           padding: 12px 0px 12px 6px;
+           list-style-type: disc;
+
+            margin-left:15em;
+}
+
+
 div.photo img {
 
   width: 85%;
