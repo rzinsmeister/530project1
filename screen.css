@@ -8,79 +8,78 @@ body {
   margin: auto auto 50px auto;
 }
 
-h1 { font-weight: bold;
-     font-size: 28px;
-     text-align: center;
-     padding: 28px 0px 28px 0px;
+h1 { 
+  font-weight: bold;
+  font-size: 28px;
+  text-align: center;
+  padding: 28px 0px 28px 0px;
 }
 
-
-ul.heading { text-align: center;
-     font-size: 18px;
-     padding: 12px 0px 16px 0px;
-
+ul.heading { 
+  text-align: center;
+  font-size: 18px;
+  padding: 12px 0px 16px 0px;
 }
 
-h2 { font-weight: bold;
-     font-size: 22px;
-     padding: 18px 0px 12px 0px;
-      
+h2 { 
+  font-weight: bold;
+  font-size: 22px;
+  padding: 18px 0px 12px 0px;    
 }
 
-ul.tasks li { font-size: 15px;
-           padding: 12px 12px 12px 6px;
-           list-style-type: disc;
-
-            margin-left:5em;
+ul.tasks li { 
+  font-size: 15px;
+  padding: 12px 12px 12px 6px;
+  list-style-type: disc;
+  margin-left:5em;
 }
 
-h3.company,h3.university { font-size:20px;
-              font-weight:bold;
+h3.company,h3.university { 
+  font-size:20px;
+  font-weight:bold;
 }
 
-p.job_title { font-size: 18px;
-                text-decoration: underline;
-                padding: 0px 0px 12px 30px;
+p.job_title { 
+  font-size: 18px;
+  text-decoration: underline;
+  padding: 0px 0px 12px 30px;
 }
 
-h4.dates { font-style: italic;
-           text-align: right;
-           font-size: 16px;
-
+h4.dates { 
+  font-style: italic;
+  text-align: right;
+  font-size: 16px;
 }
 
-strong { font-weight: bold;
-
+strong { 
+  font-weight: bold;
 }
 
-em { font-style: italic;
+em { 
+  font-style: italic;
 }
 
-p.awardedfor { font-style: italic;
-      
+p.awardedfor { 
+  font-style: italic;      
 }
 
 h2.portfolio_title {
-    text-align: center
-
+  text-align: center
 }
 
 p.photo_information {
-    width: auto;
-    height: 50px;
-    padding: 10px 10px 0px 10px;
-    border: 3px solid #303030;
-    margin: 15 px;
-    text-align: center;
-    background: 	#787878;
-
+  width: auto;
+  height: 50px;
+  padding: 10px 10px 0px 10px;
+  border: 3px solid #303030;
+  margin: 15px;
+  text-align: center;
+  background: #787878;
 }
 
 div.photo img {
-
   width: 85%;
   display: block;
   margin-left: auto;
   margin-right: auto;
-
 }
