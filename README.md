@@ -6,7 +6,7 @@ Project 1
  
   I wanted to keep the pages simple looking for now, because I wanted them to look professional. I was concerned that throwing too much color at them without a better idea of layout may cause them to be cluttered or look unprofessional. Also, I wanted to play with the basic idea of writing XHTML and applying styles. I found by keeping it simple I was able to better see how the CSS worked.
   
-  Using Git was a bit confusing at first, though I have a general idea of how it works now. I think Git will show some challenges once I create branches and try to do more tasks with it. However, starting off it was helpful to have the instructions at GitHub. Also, now that it is set up on my laptop and on the lab computer it seems easy at least to do basic commits.
+  Using Git was a bit confusing at first, though I have a general idea of how it works now. Starting off it was helpful to have the instructions at GitHub. I think Git will show some challenges once I create branches and try to do more tasks with it.  Also, now that it is set up on my laptop and on the lab computer it seems easy at least to do basic commits.
   
   I think going forward I will try and use my commits more strategically. I was committing just as I got to a point of having a chunk of the page working and I think once I have more going on I could use my commits better to keep track of what I am doing. I was using committing as a way of saving instead of as a place I wanted to mark in history. I wouldn't necessarily want to revert back to the places I committed to and think I could do use that feature better.  
 
